@@ -1,0 +1,1 @@
+![Diagrama de fluxo do sistema](bdc-tickets-system-flow.png)
